@@ -10,6 +10,10 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+netlify:
+    - id: "819ba5f8-7ee0-4f87-86d8-d8d2a5fc451e"
+      url: "https://spinpy.netlify.app"
+
 format:
   html:
     theme: cosmo
